@@ -2,6 +2,9 @@
 
 A deep learning-based MIDI music generator trained on the MAESTRO dataset, capable of generating classical piano compositions.
 
+![Header](images/music.jpg)
+Image by <a href="https://pixabay.com/users/ralf1403-21380246/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8463988">Ralf Ruppert</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8463988">Pixabay</a>
+
 ## 📋 Table of Contents
 
 - [Project Setup & Data Exploration](#project-setup)
